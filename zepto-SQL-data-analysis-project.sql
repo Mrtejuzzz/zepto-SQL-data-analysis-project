@@ -1,4 +1,4 @@
-#**SQL Querry**#
+--------SQL Querry
 
 
 drop table if exists zepto;
